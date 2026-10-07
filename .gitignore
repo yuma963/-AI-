@@ -1,0 +1,18 @@
+# VS Code
+.vscode/
+
+# Python
+calender/backend/venv/
+__pycache__/
+*.pyc
+
+# Next.js / Node
+calender/frontend/node_modules/
+calender/frontend/.next/
+
+# APIキー・環境変数
+.env
+.env.*
+
+# Database
+*.db
